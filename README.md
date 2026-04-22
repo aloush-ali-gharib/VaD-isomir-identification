@@ -39,7 +39,7 @@ VaD-miRNA-Collaborative/
 │
 ├── core_pipeline/           # isomiR extraction and frequency merging
 ├── differential_expression/ # DESeq2 workflows for mRNA & miRNA
-├── interaction_prediction/  # dMiso pair generation & orchestration
+├── interaction_prediction/  # Miranda and dMiso pair generation & orchestration
 ├── functional_analysis/     # Pathway enrichment & visualization
 ├── docs/                    # Methodology overviews
 └── README.md
